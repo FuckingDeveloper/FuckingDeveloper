@@ -1,6 +1,6 @@
 [![HEADER](https://github.com/mrhealman/mrhealman/blob/main/assets/banner.jpg)](https://github.com/mrhealman/mrhealman/blob/main/assets/banner.jpg)
 
-# Software developer & DevOPS / Cyber-Sec engineer
+# Software developer & (DevOPS / Cyber-Sec) engineer
 
 
 ### Tools & langues & OS 
