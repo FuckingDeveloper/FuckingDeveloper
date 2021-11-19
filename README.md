@@ -29,9 +29,9 @@
 
 ### Follow me and my team
 [![Twitter](https://img.shields.io/badge/-MRH_Games-090909?style=for-the-badge&logo=Twitter&color=black)](https://twitter.com/mrhgamedev)
-[![Telegram](https://img.shields.io/badge/-FuckingDeveloper-090909?style=for-the-badge&logo=Telegram&color=black)](https://t.me/FuckingDeveloperk)
+[![Telegram](https://img.shields.io/badge/-FuckingDeveloper-090909?style=for-the-badge&logo=Telegram&color=black)](https://t.me/FuckingDeveloper)
 [![Twitter](https://img.shields.io/badge/-MRH-090909?style=for-the-badge&logo=Twitter&color=black)](https://twitter.com/mrh_of)
-[![Vk](https://img.shields.io/badge/-MRH_Games-090909?style=for-the-badge&logo=VK&color=black)](https://vk.com/mrhgames)
+[![VK](https://img.shields.io/badge/-MRH_Games-090909?style=for-the-badge&logo=VK&color=black)](https://vk.com/mrhgames)
 
 
 
