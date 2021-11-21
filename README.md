@@ -1,4 +1,4 @@
-[![HEADER](https://github.com/mrhealman/mrhealman/blob/main/assets/banner.jpg)](https://github.com/mrhealman/mrhealman/blob/main/assets/banner.jpg)
+[![HEADER](https://github.com/FuckingDeveloper/FuckingDeveloper/blob/main/assets/banner.jpg)](https://github.com/FuckingDeveloper/FuckingDeveloper/blob/main/assets/banner.jpg)
 
 # Software developer & (DevOPS / Cyber-Sec) engineer
 
@@ -25,7 +25,7 @@
 
 <br/>
 
-[![MRH GitHub stats](https://github-readme-stats.vercel.app/api?username=mrhealman&hide=stars,prs&show_icons=true&theme=dark&hide_border=0&bg_color=000000&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![MRH GitHub stats](https://github-readme-stats.vercel.app/api?username=FuckingDeveloper&hide=stars,prs&show_icons=true&theme=dark&hide_border=0&bg_color=000000&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Follow me and my team
 [![Twitter](https://img.shields.io/badge/-MRH_Games-090909?style=for-the-badge&logo=Twitter&color=black)](https://twitter.com/mrhgamedev)
